@@ -1,0 +1,18 @@
+{
+  "name": "MyProject",
+  "version": "1.0.0",
+  "depencencies": {
+    "express": "~4.13.0",
+    "morgan": "~1.6.0",
+    "compression": "~1.5.0",
+    "body-parser": "~1.13.0",
+    "jade": "~1.11.0",
+    "node-sass-middleware" : "~0.9.0",
+    "express-validator" : "~2.14.0",
+    "express-session": "~1.11.0",
+    "mongoose" : "~3.8.0"
+  },
+  "dependencies": {
+    "tree": "^0.1.3"
+  }
+}
